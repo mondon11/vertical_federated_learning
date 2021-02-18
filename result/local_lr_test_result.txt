@@ -1,0 +1,2 @@
+time	local_lr_predict_auc	local_lrpredict_acc
+2021-02-18 18:02:53	0.9907024793388429	0.958041958041958
